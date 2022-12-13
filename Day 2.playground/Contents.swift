@@ -1,6 +1,5 @@
 import UIKit
 
-
 let fileURL = Bundle.main.url(forResource: "Input", withExtension: "txt")
 let data = try String(contentsOf: fileURL!, encoding: String.Encoding.utf8)
 let content = data.components(separatedBy: .newlines)
