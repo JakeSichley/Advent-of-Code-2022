@@ -12,12 +12,14 @@
 		41D09E6C2947BC4D00E10195 /* Day 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		41FE92D42947E422003BDF40 /* Day 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		41FE92D52948112E003BDF40 /* Day 5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 5.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		41FE92D629483F26003BDF40 /* Day 6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 6.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		41012B4E2946ED8200745897 = {
 			isa = PBXGroup;
 			children = (
+				41FE92D629483F26003BDF40 /* Day 6.playground */,
 				41FE92D52948112E003BDF40 /* Day 5.playground */,
 				41FE92D42947E422003BDF40 /* Day 4.playground */,
 				41D09E6C2947BC4D00E10195 /* Day 3.playground */,
